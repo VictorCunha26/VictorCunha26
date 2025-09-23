@@ -5,7 +5,7 @@
 Me chamo Victor Vicentini Cunha tenho 17 anos, sou natural de São Paulo. Estou concluindo o ensino médio no Sesi AE Carvalho, juntamente com o técnico em ADS no Senai Conde José Vicente de Azevedo. Gosto de desenvolver projetos na área de tecnologia e robótica, pelo Eureka!(grupo de alunos que fazem projetos na area de STEM na escola) e Makers da ZL (equipe de robótica).
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/VictorCunha26?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
