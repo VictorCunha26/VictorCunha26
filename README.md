@@ -69,15 +69,6 @@ Me chamo Victor Vicentini Cunha tenho 17 anos, sou natural de São Paulo. Estou 
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Kotlin"
     title="Kotlin" 
     width="30px" 
