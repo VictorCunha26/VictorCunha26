@@ -2,7 +2,7 @@
 
 **`Técnico em Análise em Desenvolvimento em Sistemas`**
 
-Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Estou concluindo o ensino médio no Sesi AE Carvalho, juntamente com o técnico em ADS no Senai Conde José Vicente de Azevedo. Gosto de desenvolver projetos na área de tecnologia e robótica, pelo Eureka!(grupo de alunos que fazem projetos na area de STEM na escola) e Makers da ZL (equipe de robótica).
+Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclui o ensino médio no Sesi AE Carvalho, juntamente com o técnico em ADS no Senai Conde José Vicente de Azevedo. Desenvolvi projetos na área de tecnologia e robótica pela escola. Atualmente estou em uma nova jornada, fazendo faculdade na área de ADS no Senai Mariano Ferraz, adquirindo novos conhecimentos e experiências.
 
 <p align="left">
     <a href="https://github.com/VictorCunha26?tab=repositories&sort=stargazers">
