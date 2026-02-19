@@ -100,8 +100,8 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
 ### 📊 GitHub Stats 
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorCunha26&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCunha26&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorcunha26&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcunha26&layout=compact&theme=tokyonight" />
 </p>
 
 
