@@ -160,13 +160,30 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorCunha26&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="380"/>
+# 📊 GitHub Stats & Grind
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCunha26&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="380"/>
+<table>
+<tr>
+<td>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=VictorCunha26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCunha26&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="380"/>
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCunha26&theme=tokyonight&hide_border=true" width="400"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCunha26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
+
+</td>
+</tr>
+</table>
 
 </div>
           
