@@ -1,6 +1,6 @@
 #  Victor Vicentini Cunha
 
-**`Técnico em Análise em Desenvolvimento em Sistemas`**
+**`Tecnólogo em Análise em Desenvolvimento em Sistemas`**
 
 Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclui o ensino médio no Sesi AE Carvalho, juntamente com o técnico em ADS no Senai Conde José Vicente de Azevedo. Desenvolvi projetos na área de tecnologia e robótica pela escola. Atualmente estou em uma nova jornada, fazendo faculdade na área de ADS no Senai Mariano Ferraz, adquirindo novos conhecimentos e experiências.
 
