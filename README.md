@@ -153,6 +153,9 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
     src="https://img.icons8.com/color/48/c-programming.png" 
 />
 
+</br>
+</br>
+
 ### 📊GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCunha26&show_icons=true&theme=dark&include_all_commits=true)
