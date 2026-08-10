@@ -7,19 +7,16 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
 <h3>🌐 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO">
+  <a href="https://www.linkedin.com/in/victor-vicentini-cunha-92560436a">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
-  <a href="https://x.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25"/>
-  </a>
-  <a href="https://instagram.com/SEU_USUARIO">
+  <a href="https://www.instagram.com/vica_dev7/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
   </a>
-  <a href="https://discord.com/users/SEU_ID">
+  <a href="https://discord.gg/gMjtpnxGE">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:vicapro2607@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
   </a>
 </p>
