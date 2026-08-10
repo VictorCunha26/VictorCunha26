@@ -4,23 +4,25 @@
 
 Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclui o ensino médio no Sesi AE Carvalho, juntamente com o técnico em ADS no Senai Conde José Vicente de Azevedo. Desenvolvi projetos na área de tecnologia e robótica pela escola. Atualmente estou em uma nova jornada, fazendo faculdade na área de ADS no Senai Mariano Ferraz, adquirindo novos conhecimentos e experiências.
 
-<p align="left">
-    <a href="https://github.com/VictorCunha26?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/VictorCunha26?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/VictorCunha26?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/VictorCunha26?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<h3>🌐 Connect with Me</h3>
 
+<p align="left">
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="https://x.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25"/>
+  </a>
+  <a href="https://instagram.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+  </a>
+  <a href="https://discord.com/users/SEU_ID">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+  </a>
+</p>
 ---
 
 # 💻Tech Stack
