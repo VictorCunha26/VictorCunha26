@@ -1,4 +1,4 @@
-# 🧑‍💻 Victor Cunha 
+#  Victor Vicentini Cunha
 
 **`Técnico em Análise em Desenvolvimento em Sistemas`**
 
@@ -93,6 +93,27 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="NODE"
+    title="NODE" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="BOOTSTRAP"
+    title="BOOTSTRAP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+          
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
