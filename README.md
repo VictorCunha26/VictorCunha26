@@ -23,7 +23,7 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
 
 ---
 
-### 💻Tech Stack
+# 💻Tech Stack
 
 <img 
     align="left" 
@@ -155,8 +155,6 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
 
 </br>
 </br>
-
-### 📊GitHub Stats
 
 <div align="center">
 
