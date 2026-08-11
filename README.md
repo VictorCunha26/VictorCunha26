@@ -10,7 +10,7 @@ Me chamo Victor Vicentini Cunha tenho 18 anos, sou natural de São Paulo. Conclu
   <a href="https://www.linkedin.com/in/victor-vicentini-cunha-92560436a">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
-  <a href="https://www.instagram.com/vica_dev7/">
+  <a href="https://www.instagram.com/vicaadev/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
   </a>
   <a href="https://discord.gg/gMjtpnxGE">
